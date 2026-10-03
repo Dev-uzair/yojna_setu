@@ -1,0 +1,304 @@
+[
+  {
+    "id": "pm-kisan",
+    "name": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+    "level": "central",
+    "summary": "Direct financial support for landholding farming families across India.",
+    "benefit": "₹6,000 per year transferred in 3 equal installments into the bank account.",
+    "annualValue": 6000,
+    "beneficiaryType": "household",
+    "eligibility": "Small and marginal farmer families with cultivable land in their name. Institutional landholders and high-income taxpayers excluded.",
+    "documents": [
+      "Aadhaar Card",
+      "Land ownership documents (Khasra/Khatauni)",
+      "Bank Account details with IFSC",
+      "Active Mobile number"
+    ],
+    "howToApply": "Online via pmkisan.gov.in portal or CSC center.",
+    "timing": "Always open",
+    "sourceUrl": "https://pmkisan.gov.in"
+  },
+  {
+    "id": "aicte-tfw",
+    "name": "AICTE Tuition Fee Waiver (TFW) Scheme",
+    "level": "central",
+    "summary": "100% tuition fee waiver for meritorious students from economically weaker families entering technical courses.",
+    "benefit": "Full tuition fee waiver for the duration of the degree/diploma program (worth ~₹80,000/year).",
+    "annualValue": 80000,
+    "beneficiaryType": "individual",
+    "eligibility": "Students appearing in or passed Class 12 seeking admission into AICTE-approved engineering/technical colleges. Family annual income must be below ₹8,00,000.",
+    "documents": [
+      "Class 10 & 12 Marksheets",
+      "Income Certificate from Competent Authority",
+      "State Domicile Certificate",
+      "Entrance Exam / Counselling Admit Card"
+    ],
+    "howToApply": "Select the TFW category option during State / Central engineering admission counselling (e.g. MP DTE).",
+    "timing": "During MP DTE counselling after Class 12 (typically June-August)",
+    "sourceUrl": "https://www.aicte-india.org"
+  },
+  {
+    "id": "mp-ladli-behna",
+    "name": "Mukhyamantri Ladli Behna Yojana",
+    "level": "state",
+    "state": "Madhya Pradesh",
+    "summary": "Monthly financial aid to empower married, widowed, and abandoned women in Madhya Pradesh.",
+    "benefit": "₹1,250 per month (₹15,000 per year) directly credited to DBT-enabled bank account.",
+    "annualValue": 15000,
+    "beneficiaryType": "individual",
+    "eligibility": "Resident women of MP aged between 21 and 60 years who are married, widowed, divorced, or separated. Family annual income under ₹2.5 Lakh; no income taxpayers in family.",
+    "documents": [
+      "Samagra Family ID and Member ID",
+      "Aadhaar Card",
+      "Bank Account with active Aadhaar DBT link",
+      "Mobile number"
+    ],
+    "howToApply": "Submit form at gram panchayat camps, ward offices, or designated village camps.",
+    "timing": "Next registration camp opens (camp-based application)",
+    "sourceUrl": "https://cmladlibahna.mp.gov.in"
+  },
+  {
+    "id": "mp-medhavi-vidyarthi",
+    "name": "Mukhyamantri Medhavi Vidyarthi Yojana (MMVY)",
+    "level": "state",
+    "state": "Madhya Pradesh",
+    "summary": "State scholarship covering complete college tuition fees for meritorious students from MP.",
+    "benefit": "Full course tuition fees paid directly to the recognized institution.",
+    "annualValue": 50000,
+    "beneficiaryType": "individual",
+    "eligibility": "MP domicile students with 70% or higher in MP Board (or 85%+ in CBSE/ICSE) in Class 12, family income under ₹6,00,000/year, admitted into approved degree courses.",
+    "documents": [
+      "Class 10 and 12 marksheets",
+      "MP Domicile Certificate",
+      "Income Certificate",
+      "College Admission receipt"
+    ],
+    "howToApply": "Online registration through MP Scholarship Portal 2.0.",
+    "timing": "During MP state counselling and college admission window",
+    "sourceUrl": "https://scholarshipportal.mp.nic.in"
+  },
+  {
+    "id": "sukanya-samriddhi",
+    "name": "Sukanya Samriddhi Yojana (SSY)",
+    "level": "central",
+    "summary": "Government-backed small deposit savings scheme with high interest and tax benefits for girl children.",
+    "benefit": "High guaranteed interest rate (8.2%), exempt-exempt-exempt tax status, compound wealth accumulation.",
+    "annualValue": 0,
+    "beneficiaryType": "individual",
+    "eligibility": "Parents or legal guardians of a girl child aged under 10 years at the time of account opening. Maximum 2 accounts per family.",
+    "documents": [
+      "Birth Certificate of girl child",
+      "Parent/Guardian Identity Proof (Aadhaar/PAN)",
+      "Address Proof",
+      "Passport size photos"
+    ],
+    "howToApply": "At any nearest Post Office branch or authorized commercial bank.",
+    "timing": "Apply before the girl child turns 10 years old",
+    "sourceUrl": "https://www.nsiindia.gov.in"
+  },
+  {
+    "id": "nsap-old-age-pension",
+    "name": "Indira Gandhi National Old Age Pension (IGNOAPS)",
+    "level": "central",
+    "summary": "Monthly pension for destitute elderly citizens living below the poverty line.",
+    "benefit": "₹600 to ₹1,000 monthly pension transferred to bank or post office account (₹7,200 to ₹12,000/year).",
+    "annualValue": 7200,
+    "beneficiaryType": "individual",
+    "eligibility": "Citizens aged 60 years or above belonging to a household categorized as Below Poverty Line (BPL).",
+    "documents": [
+      "Age proof certificate / School leaving or Voter ID",
+      "BPL Ration Card / BPL Survey certificate",
+      "Aadhaar Card",
+      "Bank Passbook copy"
+    ],
+    "howToApply": "Offline application at Gram Panchayat, Janpad Panchayat, or Sub-Divisional Magistrate (SDM) office.",
+    "timing": "Always open",
+    "sourceUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "ayushman-bharat",
+    "name": "Ayushman Bharat PM-JAY",
+    "level": "central",
+    "summary": "World's largest government-funded healthcare assurance scheme offering cashless hospital treatment.",
+    "benefit": "Cashless hospitalization coverage of up to ₹5,00,000 per family per year at empaneled hospitals.",
+    "annualValue": 0,
+    "beneficiaryType": "household",
+    "eligibility": "Families identified under SECC / BPL databases and Antyodaya beneficiaries. Senior citizens 70+ also covered universally.",
+    "documents": [
+      "Aadhaar Card",
+      "Ration Card / Samagra ID",
+      "Mobile number"
+    ],
+    "howToApply": "Check name online on beneficiary.nha.gov.in and generate Ayushman Card at nearest CSC or empaneled hospital kiosk.",
+    "timing": "Always open",
+    "sourceUrl": "https://beneficiary.nha.gov.in"
+  },
+  {
+    "id": "post-matric-obc",
+    "name": "Post-Matric Scholarship for OBC Students",
+    "level": "central",
+    "summary": "Financial assistance to students from Other Backward Classes to pursue higher education beyond Class 10.",
+    "benefit": "Maintenance allowance and reimbursement of non-refundable tuition fees (approx ₹6,000 to ₹12,000/year).",
+    "annualValue": 8000,
+    "beneficiaryType": "individual",
+    "eligibility": "Students belonging to the OBC category studying in post-matriculation courses (Class 11, 12, ITI, Diploma, Graduation) with annual family income up to ₹2.5 Lakh.",
+    "documents": [
+      "Caste Certificate (OBC) issued by authorized authority",
+      "Income Certificate",
+      "Previous year marksheet",
+      "Current Course Admission Proof and Fee Receipt"
+    ],
+    "howToApply": "Online via National Scholarship Portal (scholarships.gov.in) or MP State Scholarship Portal.",
+    "timing": "Opens annually in July-October with academic sessions",
+    "sourceUrl": "https://scholarships.gov.in"
+  },
+  {
+    "id": "pm-ujjwala",
+    "name": "Pradhan Mantri Ujjwala Yojana 2.0",
+    "level": "central",
+    "summary": "Deposit-free LPG connection provided to adult women from poor households.",
+    "benefit": "Free LPG connection with first refill and stove provided without cost, plus ongoing targeted subsidy.",
+    "annualValue": 2400,
+    "beneficiaryType": "household",
+    "eligibility": "Adult woman belonging to a BPL, SC/ST, or rural deprived household having no prior LPG connection.",
+    "documents": [
+      "Aadhaar Card of applicant and adult family members",
+      "BPL Ration Card or SECC proof",
+      "Bank Account details",
+      "Declaration of 14-point exclusion"
+    ],
+    "howToApply": "Submit form online at pmuy.gov.in or directly at nearest LPG gas distributor.",
+    "timing": "Always open",
+    "sourceUrl": "https://www.pmuy.gov.in"
+  },
+  {
+    "id": "pm-awas-gramin",
+    "name": "Pradhan Mantri Awaas Yojana - Gramin (PMAY-G)",
+    "level": "central",
+    "summary": "Financial grant for the construction of a pucca house with basic amenities in rural areas.",
+    "benefit": "Financial grant of ₹1,20,000 in plain areas (₹1,30,000 in hilly areas) transferred directly in stages.",
+    "annualValue": 40000,
+    "beneficiaryType": "household",
+    "eligibility": "Houseless families or those living in kutcha/dilapidated houses in rural villages as identified by gram sabha and Awaas+ list.",
+    "documents": [
+      "Aadhaar Card",
+      "Bank Account details",
+      "MGNREGA Job Card number",
+      "Land/House site allotment document"
+    ],
+    "howToApply": "Registration conducted through Gram Panchayat via the AwaasSoft portal by village officials.",
+    "timing": "Subject to Gram Panchayat survey and beneficiary priority list",
+    "sourceUrl": "https://pmayg.nic.in"
+  },
+  {
+    "id": "pm-fasal-bima",
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "level": "central",
+    "summary": "Comprehensive crop insurance coverage against non-preventable natural risks from pre-sowing to post-harvest.",
+    "benefit": "Full financial claim settlement for crop loss with highly subsidized farmer premium (1.5% to 2%).",
+    "annualValue": 0,
+    "beneficiaryType": "household",
+    "eligibility": "All farmers growing notified crops in notified areas including sharecroppers and tenant farmers with landholding records.",
+    "documents": [
+      "Land Record (RoR / Khasra-Khatauni)",
+      "Sowing Certificate / Patwari report",
+      "Bank Account details",
+      "Aadhaar Card"
+    ],
+    "howToApply": "Enroll via bank branch where KCC is held, through pmfby.gov.in portal, or CSC before season deadline.",
+    "timing": "Seasonal windows: July 31 for Kharif, December 31 for Rabi",
+    "sourceUrl": "https://pmfby.gov.in"
+  },
+  {
+    "id": "pm-jeevan-jyoti-bima",
+    "name": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+    "level": "central",
+    "summary": "Government life insurance scheme offering ₹2 Lakh death benefit at an affordable annual premium of ₹436.",
+    "benefit": "₹2,00,000 life insurance cover payable to nominee on death of the subscriber.",
+    "annualValue": 0,
+    "beneficiaryType": "individual",
+    "eligibility": "Individuals aged 18 to 50 years who have a savings bank or post office account with auto-debit consent.",
+    "documents": [
+      "Aadhaar Card",
+      "Bank or Post Office savings account passbook",
+      "Nominee details"
+    ],
+    "howToApply": "Submit simple auto-debit enrollment form at your bank branch or via NetBanking/Mobile Banking.",
+    "timing": "Annual renewal window in May; can join anytime with auto-debit",
+    "sourceUrl": "https://financialservices.gov.in"
+  },
+  {
+    "id": "pm-suraksha-bima",
+    "name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+    "level": "central",
+    "summary": "Accidental insurance scheme offering up to ₹2 Lakh accident death and disability cover for ₹20 per year.",
+    "benefit": "₹2,00,000 for accidental death or total permanent disability; ₹1,00,000 for partial permanent disability.",
+    "annualValue": 0,
+    "beneficiaryType": "individual",
+    "eligibility": "Individuals aged 18 to 70 years holding an active savings bank account with consent for annual auto-debit of ₹20.",
+    "documents": [
+      "Aadhaar Card",
+      "Bank passbook with IFSC",
+      "Nominee details"
+    ],
+    "howToApply": "Enroll through your savings bank branch or Internet Banking with auto-debit option.",
+    "timing": "Always open, annual auto-renewal each year on May 31",
+    "sourceUrl": "https://financialservices.gov.in"
+  },
+  {
+    "id": "atal-pension",
+    "name": "Atal Pension Yojana (APY)",
+    "level": "central",
+    "summary": "Guaranteed minimum monthly pension scheme aimed at unorganized sector workers.",
+    "benefit": "Guaranteed pension of ₹1,000 to ₹5,000 per month starting after attaining 60 years of age.",
+    "annualValue": 0,
+    "beneficiaryType": "individual",
+    "eligibility": "Indian citizens aged 18 to 40 years holding a savings bank account who are not taxpayers.",
+    "documents": [
+      "Aadhaar Card",
+      "Bank Savings Account linked with Aadhaar and mobile",
+      "Nominee details"
+    ],
+    "howToApply": "Apply online via NetBanking or submit APY form to any bank or post office branch.",
+    "timing": "Must join between ages 18 and 40",
+    "sourceUrl": "https://www.npscra.nsdl.co.in"
+  },
+  {
+    "id": "national-family-benefit",
+    "name": "National Family Benefit Scheme (NFBS)",
+    "level": "central",
+    "summary": "One-time lump sum grant provided to a BPL family upon the unfortunate death of the primary breadwinner.",
+    "benefit": "One-time financial assistance of ₹20,000 paid to the surviving household head.",
+    "annualValue": 0,
+    "beneficiaryType": "household",
+    "eligibility": "BPL family upon the death of the primary breadwinner aged between 18 and 59 years.",
+    "documents": [
+      "Death certificate of breadwinner",
+      "BPL Ration Card",
+      "Age proof of the deceased",
+      "Applicant Bank Account Passbook"
+    ],
+    "howToApply": "Submit claim at the office of Janpad Panchayat / SDM within 6 months of death.",
+    "timing": "Within 6 months of the unfortunate event",
+    "sourceUrl": "https://nsap.nic.in"
+  },
+  {
+    "id": "pm-vishwakarma",
+    "name": "PM Vishwakarma Scheme",
+    "level": "central",
+    "summary": "Holistic support including skill training, modern toolkit incentive, and collateral-free credit for traditional artisans and craftspersons.",
+    "benefit": "Free skill training with ₹500/day stipend, ₹15,000 toolkit e-voucher, and subsidized loans at 5% interest.",
+    "annualValue": 15000,
+    "beneficiaryType": "individual",
+    "eligibility": "Traditional artisans and craftsmen working in 18 specified trades (carpenter, blacksmith, goldsmith, potter, mason, tailor, etc.) aged 18+. One member per family.",
+    "documents": [
+      "Aadhaar Card",
+      "Active Mobile number linked with Aadhaar",
+      "Bank Passbook",
+      "Skill/Trade self-declaration"
+    ],
+    "howToApply": "Biometric verification and application through nearest Common Service Centre (CSC).",
+    "timing": "Always open",
+    "sourceUrl": "https://pmvishwakarma.gov.in"
+  }
+]
